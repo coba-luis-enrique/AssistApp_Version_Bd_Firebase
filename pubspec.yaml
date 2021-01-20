@@ -30,9 +30,8 @@ dependencies:
   cupertino_icons: ^1.0.0
   firebase_core: ^0.7.0
   cloud_firestore: ^0.16.0
-  uuid: ^2.2.2
   provider: ^4.3.2+4
-  date_format: ^1.0.9
+  get_it: ^5.0.4
   google_fonts: ^1.1.1
 
 dev_dependencies:
